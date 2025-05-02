@@ -89,7 +89,7 @@ The component handles the following events:
 - Only numeric inputs are allowed  
 - Maximum input per field: **1 character**  
 - Fully responsive for mobile with numeric keyboard support  
-- Supports both **light** and **dark** themes  
+- Supports both **light** and **dark** themes.  
 
 ---
 
